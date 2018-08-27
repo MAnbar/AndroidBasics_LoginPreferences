@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task1</string>
+    <string name="splash_screen">Splash Screen</string>
+    <string name="welcome">Welcome</string>
+    <string name="new_user">New User Created</string>
+    <color name="black">#212121</color>
+</resources>
